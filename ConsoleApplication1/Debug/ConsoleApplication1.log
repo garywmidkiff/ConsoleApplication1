@@ -1,3 +1,0 @@
-﻿  pch.cpp
-  ConsoleApplication1.cpp
-LINK : fatal error LNK1104: cannot open file 'libboost_date_time-vc141-mt-gd-x32-1_68.lib'
